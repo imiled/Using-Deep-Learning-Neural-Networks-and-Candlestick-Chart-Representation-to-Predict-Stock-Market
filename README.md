@@ -1,4 +1,4 @@
-# Stock-Market-Predcition-using-ResNet
+# Stock-Market-Prediction-using-ResNet
 
 ## 1. Prepare Environment
 run init.sh to create a virtual python environment and install the dependencies
